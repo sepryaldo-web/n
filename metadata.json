@@ -1,0 +1,6 @@
+{
+  "name": "NetBilling - Sistem Informasi Billing Warnet",
+  "description": "Aplikasi manajemen operasional warnet modern dengan live billing timer, kasir transaksi, manajemen komputer & paket, laporan pendapatan, skema PostgreSQL, dan dokumentasi ERD lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
